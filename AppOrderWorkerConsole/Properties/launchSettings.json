@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AppOrderWorkerConsole": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value",
+        "mongoConnection": "mongodb+srv://xl:123xl@cluster0.08wko.mongodb.net/manageOrder?retryWrites=true&w=majority"
+      }
+    }
+  }
+}
